@@ -5,3 +5,4 @@
 2019/01/09 22:27:09 [error] 2416#4524: *8 CreateFile() "C:\Dev\nginx\nginx-1.15.8/html/css/00-import.css" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /css/00-import.css HTTP/1.1", host: "localhost", referrer: "http://localhost/css/"
 2019/01/09 22:27:17 [error] 2416#4524: *8 CreateFile() "C:\Dev\nginx\nginx-1.15.8/html/css/00-import.css" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /css/00-import.css HTTP/1.1", host: "localhost", referrer: "http://localhost/css/"
 2019/01/09 22:27:50 [error] 2416#4524: *8 CreateFile() "C:\Dev\nginx\nginx-1.15.8/html/files/00-import.css" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /files/00-import.css HTTP/1.1", host: "localhost", referrer: "http://localhost/css/"
+2019/01/09 22:41:29 [notice] 4428#2560: signal process started

@@ -14,3 +14,5 @@
 127.0.0.1 - - [09/Jan/2019:22:29:05 -0200] "GET /css/files/00-import.css HTTP/1.1" 200 102 "http://localhost/css/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
 127.0.0.1 - - [09/Jan/2019:22:29:43 -0200] "GET /css/ HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
 127.0.0.1 - - [09/Jan/2019:22:29:43 -0200] "GET /css/files/00-import.css HTTP/1.1" 200 129 "http://localhost/css/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+127.0.0.1 - - [09/Jan/2019:22:42:06 -0200] "GET /css/ HTTP/1.1" 200 538 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+127.0.0.1 - - [09/Jan/2019:22:42:06 -0200] "GET /css/files/00-import.css HTTP/1.1" 304 0 "http://localhost/css/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
