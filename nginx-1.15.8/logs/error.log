@@ -1,0 +1,7 @@
+2019/01/09 21:43:15 [error] 11408#12256: *1 CreateFile() "C:\Dev\nginx\nginx-1.15.8/html/favicon.ico" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/01/09 21:43:40 [notice] 6400#8716: signal process started
+2019/01/09 21:44:03 [notice] 5252#8088: signal process started
+2019/01/09 21:44:03 [error] 5252#8088: CreateFile() "C:\Dev\nginx\nginx-1.15.8/logs/nginx.pid" failed (2: FormatMessage() error:(15100))
+2019/01/09 22:27:09 [error] 2416#4524: *8 CreateFile() "C:\Dev\nginx\nginx-1.15.8/html/css/00-import.css" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /css/00-import.css HTTP/1.1", host: "localhost", referrer: "http://localhost/css/"
+2019/01/09 22:27:17 [error] 2416#4524: *8 CreateFile() "C:\Dev\nginx\nginx-1.15.8/html/css/00-import.css" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /css/00-import.css HTTP/1.1", host: "localhost", referrer: "http://localhost/css/"
+2019/01/09 22:27:50 [error] 2416#4524: *8 CreateFile() "C:\Dev\nginx\nginx-1.15.8/html/files/00-import.css" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /files/00-import.css HTTP/1.1", host: "localhost", referrer: "http://localhost/css/"
