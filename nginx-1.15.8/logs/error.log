@@ -6,3 +6,10 @@
 2019/01/09 22:27:17 [error] 2416#4524: *8 CreateFile() "C:\Dev\nginx\nginx-1.15.8/html/css/00-import.css" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /css/00-import.css HTTP/1.1", host: "localhost", referrer: "http://localhost/css/"
 2019/01/09 22:27:50 [error] 2416#4524: *8 CreateFile() "C:\Dev\nginx\nginx-1.15.8/html/files/00-import.css" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /files/00-import.css HTTP/1.1", host: "localhost", referrer: "http://localhost/css/"
 2019/01/09 22:41:29 [notice] 4428#2560: signal process started
+2019/01/14 12:34:00 [emerg] 29440#24104: CreateDirectory() "C:\dev\github-thiago-hernandes\css-study\nginx-1.15.8/temp/client_body_temp" failed (3: FormatMessage() error:(15100))
+2019/01/14 12:36:47 [notice] 40076#7132: signal process started
+2019/01/14 12:36:47 [error] 40076#7132: OpenEvent("Global\ngx_stop_7356") failed (2: FormatMessage() error:(15100))
+2019/01/14 12:36:54 [emerg] 71228#24496: CreateDirectory() "C:\dev\github-thiago-hernandes\css-study\nginx-1.15.8/temp/client_body_temp" failed (3: FormatMessage() error:(15100))
+2019/01/14 12:37:03 [notice] 6584#9108: signal process started
+2019/01/14 12:37:03 [error] 6584#9108: OpenEvent("Global\ngx_stop_7356") failed (2: FormatMessage() error:(15100))
+2019/01/14 12:37:06 [emerg] 52960#58728: CreateDirectory() "C:\dev\github-thiago-hernandes\css-study\nginx-1.15.8/temp/client_body_temp" failed (3: FormatMessage() error:(15100))
